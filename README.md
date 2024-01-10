@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h0perl&label=Profile%20views&color=0e75b6&style=flat" alt="h0perl" /> </p>
 
-- 🌱 I’m currently learning **Svelte and Deta Space actions.**
+- 🌱 I’m currently learning **React Native and Deta Space actions.**
 
 - 👯 I’m looking to collaborate on **some open source projects!**
 
